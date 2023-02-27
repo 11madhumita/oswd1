@@ -1,6 +1,3 @@
 [submodule "example"]
 	path = example
 	url = https://github.com/11madhumita/example.git
-[submodule "sub_dir"]
-	path = sub_dir
-	url = ./sub_dir/
